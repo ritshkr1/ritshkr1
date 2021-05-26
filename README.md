@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riteshkumar019
 - 👀 I’m interested in playing with data
-- 🌱 I’m currently learning Android Studio
+- 🌱 I’m currently learning Flutter with VS CODE
 - 💞️ I’m looking to collaborate on DATA 
 - 📫 How to reach me : You can mail me at riteshroshan.kumar6@gmail.com
 
