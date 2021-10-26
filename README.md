@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @riteshkumar019
+- 👋 Hi, I’m @ritshkr1
 - 👀 I’m interested in playing with data
-- 🌱 I’m currently learning Flutter with VS CODE
-- 💞️ I’m looking to collaborate on DATA 
-- 📫 How to reach me : You can mail me at riteshroshan.kumar6@gmail.com
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to volunteer or gain experience.
+- 📫 How to reach me : You can mail me at ritshkr1@gmail.com
 
 <!---
 riteshkumar019/riteshkumar019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
