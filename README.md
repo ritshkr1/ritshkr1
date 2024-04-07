@@ -6,11 +6,11 @@ I'm a passionate Frontend Angular Developer with over 2 years of experience buil
 
 Key Skills:
 
-UI Development with Angular and Angular Material
-Responsive Design with Bootstrap and Tailwind CSS
-Data Visualization with Ag-Grid
-Version Control with Git and GitHub
-Debugging and Troubleshooting with Chrome Developer Tools
+1.UI Development with Angular and Angular Material
+2.Responsive Design with Bootstrap and Tailwind CSS
+3.Data Visualization with Ag-Grid
+4.Version Control with Git and GitHub
+5.Debugging and Troubleshooting with Chrome Developer Tools
 
 I'm always looking for new challenges and opportunities to contribute to innovative projects. Feel free to reach out to me through my LinkedIn profile!
 
