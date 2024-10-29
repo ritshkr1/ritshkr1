@@ -2,7 +2,7 @@ Ritesh Kumar
 
 Frontend Angular Developer
 
-I'm a passionate Frontend Angular Developer with over 2 years of experience building web applications. I'm proficient in HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, and various Angular versions (12, 14, 15, 17). I have experience utilizing RxJs, NgRx, Ag-Grid, Angular Material, and Playwright (Basic) to create robust and user-friendly interfaces.
+I'm a passionate Frontend Angular Developer with 2.5 years of experience building web applications. I'm proficient in HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, and various Angular versions (12, 14, 15, 17). I have experience utilizing RxJs, NgRx, Ag-Grid, Angular Material, and Playwright (Basic) to create robust and user-friendly interfaces.
 
 Key Skills:
 
