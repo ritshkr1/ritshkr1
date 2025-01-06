@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 # 👋 Hi, I'm Ritesh Kumar  
 
-## 🚀 Frontend Angular Developer | 2.6+ Years of Experience  
+## 🚀 Frontend Angular Developer | 2.6 Years of Experience  
 
 Crafting seamless and high-performing web applications using **modern web technologies** and **Angular frameworks**. Passionate about delivering impactful solutions that combine functionality, performance, and aesthetics.  
 
@@ -31,8 +31,8 @@ Crafting seamless and high-performing web applications using **modern web techno
 
 ## 💡 About Me  
 
-- 🌟 **Experienced Frontend Developer** with 2.5+ years of professional expertise in building scalable, maintainable, and responsive web applications.  
-- 💻 Adept at leveraging **Angular 12/15/17**, **TypeScript**, and **JavaScript (ES6)** to create dynamic user experiences.  
+- 🌟 **Experienced Frontend Developer** with 2+ years of professional expertise in building scalable, maintainable, and responsive web applications.  
+- 💻 Adept at leveraging **Angular 12/15**, **TypeScript**, and **JavaScript (ES6)** to create dynamic user experiences.  
 - 🔗 Strong focus on **secure user authentication** using **Azure Active Directory** and seamless frontend-backend integration.  
 - 🔍 Enthusiastic about **debugging, optimizing application performance**, and adhering to coding best practices.  
 
@@ -66,9 +66,9 @@ Crafting seamless and high-performing web applications using **modern web techno
 
 ---
 
-## 🌟 Featured Projects  
+<!-- ## 🌟 Featured Projects  
 
-### 🌦️ **Weather App**  
+ ### 🌦️ **Weather App**  
 A sleek, responsive weather application delivering real-time updates with an elegant user interface.  
 
 **Tech Stack**: Angular, REST APIs, Tailwind CSS  
@@ -76,9 +76,10 @@ A sleek, responsive weather application delivering real-time updates with an ele
 - **Impact**: Improved user experience with optimized API calls and a modern interface.  
 - [🔗 Live Demo](#) | [💻 Source Code](#)  
 
----
+---  
+-->
 
-### ✅ **Task Management System**  
+<!-- ### ✅ **Task Management System**  
 An advanced application designed to streamline task organization and enhance productivity.  
 
 **Tech Stack**: Angular, Firebase, Bootstrap  
@@ -87,18 +88,18 @@ An advanced application designed to streamline task organization and enhance pro
 - [🔗 Live Demo](#) | [💻 Source Code](#)  
 
 ---
+-->
 
 ## 📊 GitHub Stats  
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ritshkr1&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritshkr1&layout=compact&theme=radical)  
 
 ---
 
 ## 📫 Let's Connect  
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ritsh)  
-- 🐙 [GitHub](https://github.com/ritshkr1)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ritsh)
 - 📧 **riteshkumar.dev2@gmail.com**  
 
 ---
