@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ritesh Kumar
 
-## 🚀 Frontend Angular Developer | 2+ Years of Experience
+## 🚀 Frontend Developer | Angular • React • Tailwind | UI Engineering & Scalable Web Apps
 
 Crafting seamless and high-performing web applications using **modern web technologies** and **Angular frameworks**. Passionate about delivering impactful solutions that combine functionality, performance, and aesthetics.
 
