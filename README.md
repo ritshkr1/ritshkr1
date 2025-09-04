@@ -48,7 +48,6 @@ Crafting seamless and high-performing web applications using **modern web techno
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ritshkr1\&show_icons=true\&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritshkr1\&layout=compact\&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ritshkr1)](https://git.io/streak-stats)
 
 ---
 
